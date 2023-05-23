@@ -108,7 +108,7 @@ a {
     background-color: white;
     Padding: 20px;
     align-content: space-between;
-    width: fit-content;
+    width: 100%;
 }
 
 button {
